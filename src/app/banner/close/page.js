@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
-import Leftmenu from "@/components/leftmenu";
+import Leftmenu from "@/components/Leftmenu";
 import Footer from "@/components/Footer";
 import Header from "@/components/header";
 
