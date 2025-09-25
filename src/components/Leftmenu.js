@@ -7,7 +7,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { menuItems_left } from "@/utils/config_master";
 
-export default function Leftmenu() {
+export default function LeftmenuPage() {
   const [showModal, setShowModal] = useState(false)
   const [modalUrl] = useState('')
   // const [collapsed, setCollapsed] = useState(true) // default

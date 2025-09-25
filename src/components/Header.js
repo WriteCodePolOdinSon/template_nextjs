@@ -8,7 +8,7 @@ import { user_master, user_recv } from "@/utils/config_master"
 import jwt from 'jsonwebtoken' // 👈 ใช้ decode token ฝั่ง client
 
 
-export default function Header() {
+export default function HeaderPage() {
   const [collapsed, setCollapsed] = useState(true)
   const [user_masters, setUser_Master] = useState("")
   const [dataSource, setDataSource] = useState("master")

@@ -19,8 +19,16 @@ export const list_pooling = [
 export const users_poolcliam = [
   { username: 'rvpadmin1', password: 'odinson99', role: 'admin', name: 'Admin RVP1' },
   { username: 'rvpadmin2', password: 'odinson99', role: 'admin', name: 'Admin RVP2' },
-  { username: 'user1', password: 'user1234', role: 'user', name: 'John User' },
-  { username: 'user2', password: 'user1234', role: 'user', name: 'Mary User' },
+  { username: 'manager1', password: '1234', role: 'manager', name: 'manager1' },
+  { username: 'manager2', password: '1234', role: 'manager', name: 'manager2' },
+  { username: 'manager3', password: '1234', role: 'manager', name: 'manager3' },
+  { username: 'manager4', password: '1234', role: 'manager', name: 'manager4' },
+  { username: 'manager5', password: '1234', role: 'manager', name: 'manager5' },
+  { username: 'operator1', password: '1234', role: 'operator', name: 'operator1' },
+  { username: 'operator2', password: '1234', role: 'operator', name: 'operator2' },
+  { username: 'operator3', password: '1234', role: 'operator', name: 'operator3' },
+  { username: 'operator4', password: '1234', role: 'operator', name: 'operator4' },
+  { username: 'operator5', password: '1234', role: 'operator', name: 'operator15' },
 ]
 
 export const menuItems = [

@@ -1,6 +1,6 @@
 'use client'
 
-import Leftmenu from '@/components/leftmenu'
+import Leftmenu from '@/components/Leftmenu'
 import Footer from '@/components/Footer'
 
 export default function HomePage() {
