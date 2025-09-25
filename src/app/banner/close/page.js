@@ -2,9 +2,9 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
-import Leftmenu from "@/components/Leftmenu";
+import Leftmenu from "@/components/1Leftmenu";
 import Footer from "@/components/Footer";
-import Header from "@/components/header";
+import Header from "@/components/1Header";
 
 export default function DashboardPage() {
 
