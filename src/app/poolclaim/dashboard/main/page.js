@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import LoadingOverlay from '@/components/LoadingOverlay'
 import Leftmenu from "@/components/Leftmenu";
 import Footer from "@/components/Footer";
-import Header from "@/components/1Header";
+import Header from "@/components/Header";
 import { menuItems } from "@/utils/config_master";
 import Link from "next/link";
 import { Pie, Line } from 'react-chartjs-2';

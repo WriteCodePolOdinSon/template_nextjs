@@ -1,7 +1,7 @@
 
 import Leftmenu from "@/components/Leftmenu";
 import Footer from "@/components/Footer";
-import Header from "@/components/1Header";
+import Header from "@/components/Header";
 
 export default function DashboardPage() {
 
